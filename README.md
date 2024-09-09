@@ -5,7 +5,7 @@ Explore my collection of projects that showcase my skills in data analysis, busi
 ## Projects
 ### 1. HR Attrition Analysis
 Analyzed company-wide attrition rates to identify key drivers and trends, focusing on departments like Sales, R&D, and HR. Provided insights into employee turnover, job satisfaction, and education impacts.
-![HR Attrition Dashboard](https://github.com/HamidSherz/HR-Attrition-Analysis/blob/main/Dashboard_image.JPG)
+![HR Attrition Dashboard](https://github.com/HamidSherz/HR-Attrition-Analysis/blob/main/Dashboard_image.png)
 
 ### 2. Sparrow Credit Analysis
 Analyzed customer financial behaviors, including revolving credit balances and churn rates, using SQL and Tableau.
