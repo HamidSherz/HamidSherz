@@ -3,27 +3,37 @@
 Explore my collection of projects that showcase my skills in data analysis, business insights, and data-driven decision-making. Each project demonstrates my expertise in turning raw data into actionable insights.
 
 ## Projects
-### 1. HR Attrition Analysis
-Analyzed company-wide attrition rates to identify key drivers and trends, focusing on departments like Sales, R&D, and HR. Provided insights into employee turnover, job satisfaction, and education impacts.
+### 1. Sales Performance Analysis
+Conducted a detailed analysis of sales performance, including forecasting trends and customer behavior, to enhance sales strategies and improve forecasting accuracy. 
+**Tools Used**: SQL, Tableau
+
+![Sales Performance Dashboard](https://github.com/HamidSherz/Sales-and-Profitability-Analysis/blob/main/Visuals/Dashboard.snap.JPG)
+
+### 2. Web Marketing Project
+Evaluated web marketing strategies by analyzing user engagement, channel performance, and device usage trends, leading to actionable insights for optimizing marketing efforts. 
+**Tools Used**: SQL, Tableau  
+
+![Web Marketing Dashboard](https://github.com/HamidSherz/Web-Marketing-Analysis-2019/blob/main/Visuals/Dashboard_snap.JPG)
+
+### 3. Retail Sales Analysis
+Analyzed retail sales data focusing on sales performance, profitability, and customer behavior trends. Provided insights to enhance marketing strategies and improve customer engagement. 
+**Tools Used**: SQL, Tableau 
+
+![Retail Sales Dashboard](https://github.com/HamidSherz/Retail-Sales-Analysis-2023/blob/main/visuals/Dashboard_snap.JPG)
+
+### 4. HR Attrition Analysis
+Analyzed company-wide attrition rates to identify key drivers and trends, focusing on departments like Sales, R&D, and HR. Provided insights into employee turnover, job satisfaction, and education impacts. 
+**Tools Used**: SQL, Tableau  
+
 ![HR Attrition Dashboard](https://github.com/HamidSherz/HR-Attrition-Analysis/blob/main/Dashboard_image.png)
 
-### 2. Sparrow Credit Analysis
-Analyzed customer financial behaviors, including revolving credit balances and churn rates, using SQL and Tableau.
-![Sparrow Credit Dashboard](https://github.com/HamidSherz/sparrow-credit-analysis/blob/main/tableau_visuals/dashboard_image.JPG)
-
-### 3. E-commerce Sales Analysis
-Analyzed e-commerce sales data to uncover trends, customer segmentation, and performance metrics using SQL and Tableau.
-![E-commerce Dashboard](https://github.com/HamidSherz/ecommerce-sales-analysis/blob/main/Tableau_visuals/dashboard_image.JPG)
-
-### 4. Coffee Shop Sales Analysis
-Utilized Excel for data cleaning, pivot tables, and dashboard creation to analyze coffee shop sales trends and customer preferences.
-![Coffee Shop Dashboard](https://github.com/HamidSherz/excel-coffee-sales-analysis/blob/main/dashboard_image.JPG)
-
 ## Skills
-- Data Analysis and Visualization 📈
-- Business Intelligence 📉
-- Statistical Analysis 🔍
-- Excel, SQL, Tableau
+- **Data Analysis and Visualization** 📈: Proficient in transforming raw data into insightful visualizations to drive decision-making.
+- **Business Intelligence** 📉: Experience in utilizing data analytics to inform business strategies and optimize performance.
+- **Statistical Analysis** 🔍: Skilled in applying statistical methods to analyze data trends and relationships.
+- **Data Cleaning and Preparation** 🧹: Expertise in data wrangling to ensure high-quality datasets for analysis.
+- **SQL and Tableau** 💻: Proficient in using SQL for data extraction and Tableau for creating interactive dashboards and reports.
+- **Forecasting and Trend Analysis** 🔮: Knowledgeable in forecasting techniques to predict future performance based on historical data.
 
 
 ## Contact
