@@ -25,14 +25,14 @@ Analyzed retail sales data focusing on sales performance, profitability, and cus
 Analyzed company-wide attrition rates to identify key drivers and trends, focusing on departments like Sales, R&D, and HR. Provided insights into employee turnover, job satisfaction, and education impacts. 
 **Tools Used**: SQL, Tableau  
 
-![HR Attrition Dashboard](https://github.com/HamidSherz/HR-Attrition-Analysis/blob/main/Dashboard_image.png)
+![HR Attrition Dashboard](https://github.com/HamidSherz/HR-Attrition-Analysis/blob/main/Dashboard.snap.JPG)
 
 ## Skills
 - **Data Analysis and Visualization** 📈: Proficient in transforming raw data into insightful visualizations to drive decision-making.
 - **Business Intelligence** 📉: Experience in utilizing data analytics to inform business strategies and optimize performance.
 - **Statistical Analysis** 🔍: Skilled in applying statistical methods to analyze data trends and relationships.
 - **Data Cleaning and Preparation** 🧹: Expertise in data wrangling to ensure high-quality datasets for analysis.
-- **SQL and Tableau** 💻: Proficient in using SQL for data extraction and Tableau for creating interactive dashboards and reports.
+- **SQL and Tableau** 💻: Proficient in using SQL for data extraction, cleaning, and transformation, and Tableau for creating interactive dashboards and reports.
 - **Forecasting and Trend Analysis** 🔮: Knowledgeable in forecasting techniques to predict future performance based on historical data.
 
 
