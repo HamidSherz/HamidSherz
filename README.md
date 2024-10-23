@@ -16,7 +16,7 @@ Evaluated web marketing strategies by analysing user engagement, channel perform
 ![Web Marketing Dashboard](https://github.com/HamidSherz/Web-Marketing-Analysis-2019/blob/main/Visuals/Dashboard_snap.JPG)
 
 ### 3. Sales Trend Analysis: 2022 vs. 2023
-Analysed retail sales data focusing on sales performance, profitability, and customer behavior trends. Provided insights to enhance marketing strategies and improve customer engagement. 
+Analysed consumer goods sales data focusing on sales performance, profitability, and customer behavior trends. Provided insights to enhance marketing strategies and improve customer engagement. 
 **Tools Used**: SQL, Tableau 
 
 ![Retail Sales Dashboard](https://github.com/HamidSherz/Retail-Sales-Analysis-2023/blob/main/visuals/Dashboard_snap.JPG)
